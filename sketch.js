@@ -1,7 +1,3 @@
-
-var b1, b2, c1, c2;
-var buildings = [];
-
 //TODO tie view scale to mouse input?
 //TODO copy lower half of pixel grid and mirror it to create a lakeside effect
 //            could offset the position of each pixel just a bit to make it waterlike
